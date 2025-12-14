@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Porsche/暮れ",
+  "base_artist": "lilbesh ramko",
+  "createdAt": "2025-12-14T06:06:18.048425Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Porsche (feat. MØ)",
+      "artist": "Charli XCX feat. MØ",
+      "has_synced": true,
+      "path": "select/01_Porsche_(feat._MØ)_Charli_XCX_feat._MØ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Porsche (feat. MØ)",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/02_Porsche_(feat._MØ)_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HORSE B4 PORSCHE",
+      "artist": "Tommy Cash",
+      "has_synced": true,
+      "path": "select/03_HORSE_B4_PORSCHE_Tommy_Cash.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Porsche",
+      "artist": "Kacy Hill",
+      "has_synced": true,
+      "path": "select/04_Porsche_Kacy_Hill.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey Porsche",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/05_Hey_Porsche_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Porsche",
+      "artist": "Charli XCX feat. MØ",
+      "has_synced": true,
+      "path": "select/06_Porsche_Charli_XCX_feat._MØ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hey Porsche",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/07_Hey_Porsche_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey Porsche",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/08_Hey_Porsche_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hey Porsche - Super Clean",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/09_Hey_Porsche_-_Super_Clean_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hey Porsche (PO Clean Edit) (2013)",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/10_Hey_Porsche_(PO_Clean_Edit)_(2013)_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Porsche",
+      "artist": "Charli XCX; MØ",
+      "has_synced": true,
+      "path": "select/11_Porsche_Charli_XCX;_MØ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Porsche Majeure",
+      "artist": "TVAM",
+      "has_synced": false,
+      "path": "select/12_Porsche_Majeure_TVAM.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "PORSCHE TOPLESS",
+      "artist": "Kid Cudi",
+      "has_synced": false,
+      "path": "select/13_PORSCHE_TOPLESS_Kid_Cudi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Porsche",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/14_Porsche_Charli_XCX.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Porsche (ft. MØ)",
+      "artist": "Charli XCX",
+      "has_synced": true,
+      "path": "select/15_Porsche_(ft._MØ)_Charli_XCX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Porsche/暮れ",
+      "artist": "lilbesh ramko",
+      "has_synced": false,
+      "path": "select/pl_01_Porsche_暮れ_lilbesh_ramko.txt"
+    }
+  ]
+}
